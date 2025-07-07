@@ -168,8 +168,7 @@ const App = () => {
         onLogout={handleLogout} 
         darkMode={darkMode}
         toggleDarkMode={toggleDarkMode}
-        onAddTask={handleAddTask}
-      />
+        />
       
       <main className="main-content">
         <TaskFilter 
@@ -178,6 +177,7 @@ const App = () => {
           taskCounts={taskCounts}
           darkMode={darkMode}
           onSearch={handleSearch}
+          onAddTask={handleAddTask}
         />
 
         <TaskList 
