@@ -39,3 +39,8 @@ The **Personal Task Tracker** is a simple yet powerful productivity app that all
 - CSS3
 
 - LocalStorage (for persisting tasks)
+
+## Live URL 
+```
+https://task-manager-eob0.onrender.com
+```
