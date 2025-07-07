@@ -10,6 +10,18 @@ The **Personal Task Tracker** is a simple yet powerful productivity app that all
 - 🌙 Light/Dark mode toggle for better UX
 - 📱 Responsive design for mobile and desktop
 
+## Usage
+  
+**Add Task:** Click on the "Add Task" button , fill in the task details, and press "Save."
+
+**Edit Task:** Click on the task you want to edit, make the necessary changes, and press "Save Changes."
+
+**Delete Task:** Click on the "Delete" button next to the task you want to remove.
+
+**Add Checklist For Tracking Task Progress :** While Creating/Adding a task , at the bottom there is option to Add Task Checklists , A task Is Deemed Complete ONLY & ONLY IF all those checklists are marked.
+
+
+
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository**
